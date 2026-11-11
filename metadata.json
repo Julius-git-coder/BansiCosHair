@@ -1,0 +1,6 @@
+{
+  "name": "BANSI COSMETICS & HAIR — Luxury Hair, Beauty & Fragrance",
+  "description": "Official flagship boutique for Bansi Cosmetics & Hair. Discover raw virgin hair wigs, velvety cosmetics, and niche fragrances with direct WhatsApp concierge checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
